@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
   - To see where branches split off
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  - It takes changes from two different branches and puts them into a single branch.  Because it makes sense
+
