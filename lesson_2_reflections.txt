@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
   - It takes changes from two different branches and puts them into a single branch.  Because it makes sense
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  - auto merging makes it faster for trivial merges
+
